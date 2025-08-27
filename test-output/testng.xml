@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Ecommerce">
+  <test thread-count="5" name="OrderCreation">
+    <classes>
+      <class name="NikhitaJagota.Ecommerce.StandAloneTest"/>
+      <class name="NikhitaJagota.Ecommerce.ErrorValidations"/>
+    </classes>
+  </test> <!-- OrderCreation -->
+</suite> <!-- Ecommerce -->

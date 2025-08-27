@@ -1,0 +1,8 @@
+NikhitaJagota\Ecommerce\PageObjects\CheckoutPage.class
+NikhitaJagota\Ecommerce\PageObjects\ConfirmationPage.class
+NikhitaJagota\Ecommerce\PageObjects\LandingPage.class
+NikhitaJagota\Ecommerce\PageObjects\ProductCatalogPage.class
+NikhitaJagota\Ecommerce\PageObjects\CartPage.class
+CommonComponents\AbstractComponent.class
+NikhitaJagota\Ecommerce\resources\ExtentReporterNG.class
+CommonComponents\OrderPage.class
