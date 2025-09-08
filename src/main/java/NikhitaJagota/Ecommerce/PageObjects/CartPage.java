@@ -27,5 +27,6 @@ WebElement checkout;
 		checkout.click();
 		return new CheckoutPage(driver);
 	}
+	//
 
 }
