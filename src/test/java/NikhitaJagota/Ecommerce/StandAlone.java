@@ -17,7 +17,7 @@ public class StandAlone {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
-
+// Standalone test end to end and later converted to Page Object Modal framework
 		WebDriver driver = new ChromeDriver();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 

@@ -18,7 +18,7 @@ WebDriver driver;
 	
 	@FindBy(xpath="(//table[contains(@class,\"table\")]/tbody/tr/td[2])")
 List<WebElement> cols;
-
+// Verify Orders if correct Products are present on Orders page
 	public boolean verifyOrder(String product)
 	
 	{

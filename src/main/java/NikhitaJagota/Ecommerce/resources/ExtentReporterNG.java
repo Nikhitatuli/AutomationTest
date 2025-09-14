@@ -9,7 +9,7 @@ public class ExtentReporterNG {
 
 
 	public static ExtentReports getExtentReporterObject() {
-		 String path = System.getProperty("user.dir") + "//reports//index.html";
+		 String path = System.getProperty("user.dir") + "//reports//index1.html";
 		ExtentSparkReporter reporter = new ExtentSparkReporter(path);
 		reporter.config().setReportName("Ecommerce Report");
 		reporter.config().setDocumentTitle("Test Results");

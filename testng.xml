@@ -10,6 +10,7 @@
     <classes>
       <class name="NikhitaJagota.Ecommerce.StandAloneTest"/>
       
+      
     </classes>
   </test> <!-- OrderCreation -->
 </suite> <!-- Ecommerce -->
