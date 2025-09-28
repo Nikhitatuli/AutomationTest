@@ -11,7 +11,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import NikhitaJagota.Ecommerce.PageObjects.CartPage;
-
+// All basic common components are added here
 public class AbstractComponent {
 
 	WebDriver driver;
